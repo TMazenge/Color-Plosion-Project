@@ -1,8 +1,8 @@
 # Color-Plosion-Project
 Candy Crush backend code simulator
 
-Color Plosion runs in the consule.
-When the game runs, a 6 x 6 2d list (board) with random elements from 0 - 5 is generated.
+# Color Plosion runs in the consule.
+# When the game runs, a 6 x 6 2d list (board) with random elements from 0 - 5 is generated.
 The numbers represent different colours.
 The board has at least one possible match of three same elements.
 It does not have any existing match of three or more.
